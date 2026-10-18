@@ -1,6 +1,6 @@
 # Bitcade
 
-**Free browser games you can play right on X.** Bitcade is a small arcade of quick, one-tap games and tools for the Aptos community, plus the story of how each one launched and grew.
+**Free browser games you can play right on X.** Bitcade is my home for quick, one-tap games and tools for the Aptos community, plus the story of how each one launched and grew. I'm Angel ([@angelataptos](https://x.com/angelataptos)), a community and product builder in the Aptos ecosystem.
 
 **[Visit bitcade.xyz →](https://bitcade.xyz)** · [Work](https://bitcade.xyz/work) · [About](https://bitcade.xyz/about) · free, no sign-up, made for phones as much as desktop
 
@@ -12,11 +12,11 @@ Games are the fastest way I know to bring a community together. A post on X, a t
 
 ## What's on it
 
-- **Games hub** (`/`): the live games with short gameplay clips, a live top-5 ticker for Decicat, and a slot for the next game
+- **Games hub** (`/`): a short intro, the live games with short gameplay clips, a live top-5 ticker for Decicat, and Tracktos under Tools
 - **Work** (`/work`): headline numbers, a launch timeline from Oct 9 to Oct 16, 2026, one card per project with its role, launch date, results and links, the X posts behind each launch, and players sharing their own runs
 - **Play here**: open Decicat or Stacktos in a window right on the work page, or in a new tab
 - **One-pager**: a tidy one-page PDF of the work page, ready to download
-- **About** (`/about`): a short introduction
+- **About** (`/about`): who I am, what I've built and how to get in touch
 - **Every number shows its date**, and the Decicat figures stay current from the game's public leaderboard
 
 ## The projects
@@ -37,7 +37,9 @@ Showcases: [decicat-showcase](https://github.com/angel-andre/decicat-showcase) �
 | | |
 | --- | --- |
 | Decicat players | **453** (as of Oct 15, 2026) |
-| Decicat ranked runs | **6,095** (as of Oct 17, 2026) |
+| Decicat ranked runs | **6,097** (as of Oct 18, 2026) |
+| Decicat launch post on X | **222,145** impressions (as of Oct 17, 2026) |
+| Tracktos relaunch post on X | **100,005** impressions (as of Oct 17, 2026) |
 | Runs in Decicat's first 2 hours | **about 314** (Oct 9, 2026) |
 | Projects shipped | **3 in 8 days** (Decicat, Tracktos relaunch, Stacktos; Oct 9-16, 2026) |
 | Followers on X, [@angelataptos](https://x.com/angelataptos) | **30,412** (as of Oct 17, 2026) |
